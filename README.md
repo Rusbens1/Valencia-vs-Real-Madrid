@@ -2,8 +2,8 @@
 ##*Twitter Exploratory and Sentiment Analysis*
 
 ###Match Info:
-- Kickoff: Tuesday, December 29, 2015 - 2:45 PM ET
-- League: Spanish Primera Division
+- Kickoff: Sunday, January 3, 2015 - 2:30 PM ET
+- League: La Liga BBVA
 - Venue: Estadio de La Mestalla
 - Location: Valencia, Spain
 - Final Score: 
